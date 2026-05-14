@@ -428,8 +428,8 @@ ADMIN_CHAT_ID=123456789
 # ADMIN ACCOUNT (used by the bot to log into the API)
 # Must match a user registered with role=ADMIN in the database
 # ─────────────────────────────────────────
-ADMIN_USERNAME=admin
-ADMIN_PASSWORD=admin@123
+ADMIN_USERNAME=
+ADMIN_PASSWORD=
 ```
 
 ### Variable Reference
