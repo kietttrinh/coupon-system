@@ -14,7 +14,7 @@
 
 ---
 
-> **Transparency note:** This project was built with significant assistance from AI tools (Claude by Anthropic). The architecture, algorithms, and implementation were developed collaboratively — the AI helped write code, debug issues, structure the codebase, and generate documentation. All logic has been reviewed, tested, and understood by the project author.
+> **Transparency note:** This project was built with significant assistance from AI tools. The architecture, algorithms, and implementation were developed collaboratively — the AI helped write code, debug issues, structure the codebase, and generate documentation. All logic has been reviewed, tested, and understood; all algorithms wrote by the project author.
 
 </div>
 
