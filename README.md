@@ -684,7 +684,8 @@ This project was built with meaningful assistance from AI tools. Here's an hones
 - Project requirements and feature definitions
 - All architectural decisions were reviewed and approved
 - Testing and validating the system actually runs correctly
-- Understanding every part of the codebase (see `EXPLAIN.md`)
+- Understanding every part of the codebase
+- Re-writing the code which worked incorrectly in the code
 - Iterating on feedback and directing the AI toward the right solutions
 - Three core algorithms (Pricing Engine, Greedy Sort, Merge Intervals) wrote by author
 
