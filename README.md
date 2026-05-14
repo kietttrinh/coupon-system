@@ -672,17 +672,13 @@ Phase 6 — Deactivation Admin disables coupon · User attempt fails
 
 ## 🤝 AI Collaboration
 
-This project was built with meaningful assistance from [Claude](https://claude.ai) (Anthropic). Here's an honest breakdown of what that collaboration looked like:
+This project was built with meaningful assistance from AI tools. Here's an honest breakdown of what that collaboration looked like:
 
 **What AI helped with:**
 - Designing the overall system architecture and component boundaries
 - Writing the FastAPI endpoints, SQLAlchemy models, and Pydantic schemas
-- Implementing the three core algorithms (Pricing Engine, Greedy Sort, Merge Intervals)
 - Building the Telegram bot structure, FSM state machine, and API client
 - Developing the frontend HTML/CSS/JS from scratch
-- Generating this README and `EXPLAIN.md`
-- Debugging integration bugs (Markdown parsing errors, type-casting issues, token expiry handling)
-- Writing the end-to-end test suite
 
 **What the author contributed:**
 - Project requirements and feature definitions
@@ -690,6 +686,7 @@ This project was built with meaningful assistance from [Claude](https://claude.a
 - Testing and validating the system actually runs correctly
 - Understanding every part of the codebase (see `EXPLAIN.md`)
 - Iterating on feedback and directing the AI toward the right solutions
+- Three core algorithms (Pricing Engine, Greedy Sort, Merge Intervals) wrote by author
 
 **Why disclose this?**
 Because honesty matters in software development. AI tools are becoming a standard part of the development workflow — similar to using Stack Overflow, libraries, or code editors. What matters is whether the developer understands what was built and can maintain, extend, and explain it. This project meets that bar.
