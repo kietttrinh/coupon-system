@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.env
+CLAUDE.md 
+EXPLAIN.md
+Scripts/
+pyvenv.cfg 
+Include/
